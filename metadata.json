@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Currency",
+  "description": "An AI-powered currency converter that uses Google Search Grounding for real-time exchange rates and Gemini 2.5 Flash Lite for historical trend analysis.",
+  "requestFramePermissions": []
+}
